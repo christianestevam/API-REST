@@ -1,3 +1,3 @@
-# API_REST
+# API-REST
 API REST com Node.Js e TypeScript que simula um back-end para um sistema acadêmico com banco de dados PostgreSQL.
 
